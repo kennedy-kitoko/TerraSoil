@@ -1,0 +1,41 @@
+#######################################
+# Syntax Coloring Map For TerraSoil
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TerraSoil	KEYWORD1
+TerraSoilData	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+readSensor	KEYWORD2
+readRegister	KEYWORD2
+setReadDelay	KEYWORD2
+setTimeout	KEYWORD2
+getAddress	KEYWORD2
+getVersion	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+TERRASOIL_VERSION	LITERAL1
+TERRASOIL_DEFAULT_BAUD	LITERAL1
+TERRASOIL_DEFAULT_ADDRESS	LITERAL1
+TERRASOIL_DEFAULT_TIMEOUT	LITERAL1
+TERRASOIL_REG_MOISTURE	LITERAL1
+TERRASOIL_REG_TEMPERATURE	LITERAL1
+TERRASOIL_REG_CONDUCTIVITY	LITERAL1
+TERRASOIL_REG_PH	LITERAL1
+TERRASOIL_REG_NITROGEN	LITERAL1
+TERRASOIL_REG_PHOSPHORUS	LITERAL1
+TERRASOIL_REG_POTASSIUM	LITERAL1
+TERRASOIL_REG_SALINITY	LITERAL1
+TERRASOIL_REG_TDS	LITERAL1
+TERRASOIL_REG_FERTILITY	LITERAL1
