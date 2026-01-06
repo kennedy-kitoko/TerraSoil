@@ -41,7 +41,7 @@
 
 | Platform | ID/Contact |
 |----------|-----------|
-| 📱 **Phone** | +86 131 2698 0849 |
+| 📱 **Phone** | +86 131 2698 0843 |
 | 💬 **WeChat** | Kennedy-kitoko |
 | 🐦 **Twitter** | [@kennedykitoko13](https://twitter.com/kennedykitoko13) |
 | 📧 **Email** | kennedy.kitoko@bit.edu.cn |
