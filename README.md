@@ -33,7 +33,7 @@
 📍 Beijing Institute of Technology (BIT)  
 🎓 Bachelor of Mechanical & Electrical Engineering (3rd Year)  
 📅 Born: July 24, 2003  
-🆔 Student ID: 1820231008
+🆔 Student ID: **********
 
 </div>
 
@@ -41,7 +41,7 @@
 
 | Platform | ID/Contact |
 |----------|-----------|
-| 📱 **Phone** | +86 131 2698 0843 |
+| 📱 **Phone** | +86 ********** |
 | 💬 **WeChat** | Kennedy-kitoko |
 | 🐦 **Twitter** | [@kennedykitoko13](https://twitter.com/kennedykitoko13) |
 | 📧 **Email** | kennedy.kitoko@bit.edu.cn |
@@ -962,7 +962,7 @@ SOFTWARE.
 
 **Kennedy KITOKO MUYUNGA**
 
-- 📱 Phone: +86 131 2698 0849
+- 📱 Phone: +86 ***********
 - 💬 WeChat: Kennedy-kitoko
 - 🐦 Twitter: [@kennedykitoko13](https://twitter.com/kennedykitoko13)
 - 📧 Email: kennedy.kitoko@bit.edu.cn
